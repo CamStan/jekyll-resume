@@ -11,7 +11,7 @@ layout: resume
 
 [Github](https://github.com/CamStan)
 
-[Linkdin](https://www.linkdin.com/in/cameronstanavige)</span>
+[Linkdin](https://www.linkdin.com/in/cameronstanavige)
 
 ## Education
 
