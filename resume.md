@@ -6,7 +6,9 @@ layout: resume
 # Cameron D. Stanavige
 
 #### Contact
+
 [Github](https://github.com/CamStan)
+
 [Linkdin](https://www.linkdin.com/in/cameronstanavige)
 
 ---
