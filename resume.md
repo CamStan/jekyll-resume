@@ -16,11 +16,11 @@ layout: resume
 
 ## Experience
 
-### ** Lawrence Livermore National Laboratory** Livermore, CA *June 2018-Present*
+### **Lawrence Livermore National Laboratory** Livermore, CA *June 2018-Present*
 
 - *Software Engineer*
 
-### ** Lawrence Livermore National Laboratory** Livermore, CA *June 2017-Sept 2017*
+### **Lawrence Livermore National Laboratory** Livermore, CA *June 2017-Sept 2017*
 
 - *Computation Intern*
 
