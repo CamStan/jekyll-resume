@@ -3,15 +3,9 @@ title: "Cameron Stanavige Resume"
 layout: resume
 ---
 
-# Cameron D. Stanavige
+# Cameron D. Stanavige <span>[Github](https://github.com/CamStan) [Linkdin](https://www.linkdin.com/in/cameronstanavige)</span>
 
 ---
-
-## Contact
-
-[Github](https://github.com/CamStan)
-
-[Linkdin](https://www.linkdin.com/in/cameronstanavige)
 
 ## Education
 
